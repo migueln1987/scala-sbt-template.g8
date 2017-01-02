@@ -1,4 +1,4 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for generating a new Scala project with ScalaTest. Made from the foundweekends/giter8.g8 giter8 template.
 
 Template license
 ----------------
